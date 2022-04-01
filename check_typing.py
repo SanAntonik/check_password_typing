@@ -18,7 +18,7 @@ def check_typing(number_of_tries, original):
     
 
 if __name__ == '__main__':
-    number_of_tries = 4
+    number_of_tries = 10
     # in variable 'original' type your password to see whether you can type it without errors
     original = ""
     check_typing(number_of_tries, original)
